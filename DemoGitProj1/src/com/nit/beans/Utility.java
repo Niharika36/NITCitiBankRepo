@@ -15,8 +15,15 @@ public class Utility {
 	public void m2() {
 		System.out.println("Dev1 COMPLETED m2() Utility.");
 	}
+//<<<<<<< HEAD
 	
 	public void m4() {
 		System.out.println("Dev1 COMPLETED m4() Utility.");
 	}
+//=======
+public void m3() {
+	System.out.println(" INCOMPLETED m3() Utility.");
+	System.out.println(" INCOMPLET m3() is NOW COMPLETE.");
+}
+//>>>>>>> stash
 }
