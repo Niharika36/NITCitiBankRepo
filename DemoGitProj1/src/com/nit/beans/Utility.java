@@ -15,4 +15,8 @@ public class Utility {
 	public void m2() {
 		System.out.println("Dev1 COMPLETED m2() Utility.");
 	}
+	
+	public void m4() {
+		System.out.println("Dev1 COMPLETED m4() Utility.");
+	}
 }
