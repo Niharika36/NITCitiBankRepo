@@ -11,4 +11,8 @@ public class Utility {
 		System.out.println("m1() Utility....1234");
 		System.out.println("DEV2 here!");
 	}
+	
+	public void m2() {
+		System.out.println("Dev1 COMPLETED m2() Utility.");
+	}
 }
